@@ -128,7 +128,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "有什么可以帮你的吗，想要了解更多信息请关注公众号【岛城网事】",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
